@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kanishka1179/leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Kanishka1179/leetcode/tree/master/0169-majority-element) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kanishka1179/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Kanishka1179/leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Kanishka1179/leetcode/tree/master/0027-remove-element) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Kanishka1179/leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Kanishka1179/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Kanishka1179/leetcode/tree/master/0242-valid-anagram) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Kanishka1179/leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Kanishka1179/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Kanishka1179/leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 <!---LeetCode Topics End-->
