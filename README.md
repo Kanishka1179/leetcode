@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Kanishka1179/leetcode/tree/master/0027-remove-element) |
 | [0047-permutations-ii](https://github.com/Kanishka1179/leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/Kanishka1179/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0135-candy](https://github.com/Kanishka1179/leetcode/tree/main/0135-candy/) | Hard |
 | [0169-majority-element](https://github.com/Kanishka1179/leetcode/tree/master/0169-majority-element) |
 | [0491-non-decreasing-subsequences](https://github.com/Kanishka1179/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
@@ -99,9 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Kanishka1179/leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/Kanishka1179/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/Kanishka1179/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Kanishka1179/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Kanishka1179/leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
