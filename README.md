@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Kanishka1179/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0135-candy](https://github.com/Kanishka1179/leetcode/tree/main/0135-candy/) | Hard |
 | [0169-majority-element](https://github.com/Kanishka1179/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Kanishka1179/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Kanishka1179/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Kanishka1179/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Kanishka1179/leetcode/tree/main/1094-car-pooling/) | Medium |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kanishka1179/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Kanishka1179/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Kanishka1179/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Kanishka1179/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Kanishka1179/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/Kanishka1179/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## String
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Kanishka1179/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Kanishka1179/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Kanishka1179/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0169-majority-element](https://github.com/Kanishka1179/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Kanishka1179/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Kanishka1179/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1094-car-pooling](https://github.com/Kanishka1179/leetcode/tree/main/1094-car-pooling/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Kanishka1179/leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Divide and Conquer
@@ -67,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Kanishka1179/leetcode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/Kanishka1179/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Kanishka1179/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Kanishka1179/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
