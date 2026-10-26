@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Kanishka1179/leetcode/tree/main/0135-candy/) | Hard |
 | [0169-majority-element](https://github.com/Kanishka1179/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kanishka1179/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/Kanishka1179/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Kanishka1179/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Kanishka1179/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Kanishka1179/leetcode/tree/main/1094-car-pooling/) | Medium |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Kanishka1179/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/Kanishka1179/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Kanishka1179/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Kanishka1179/leetcode/tree/main/0051-n-queens/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Kanishka1179/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Kanishka1179/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
