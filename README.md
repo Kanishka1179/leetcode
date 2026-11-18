@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Kanishka1179/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Kanishka1179/leetcode/tree/main/0051-n-queens/) | Hard |
+| [0113-path-sum-ii](https://github.com/Kanishka1179/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Kanishka1179/leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -132,11 +133,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Kanishka1179/leetcode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Kanishka1179/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Kanishka1179/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Kanishka1179/leetcode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Kanishka1179/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Kanishka1179/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Kanishka1179/leetcode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Kanishka1179/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Kanishka1179/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
